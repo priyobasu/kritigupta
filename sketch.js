@@ -36,6 +36,7 @@ function setup(){
     bird = new Bird(100,100);
 
 }
+// this is a coding class with Kriti
 
 function draw(){
     background(backgroundImg);
